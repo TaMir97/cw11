@@ -1,6 +1,7 @@
 package org.example.model;
 
 import lombok.*;
+import org.example.base.model.BaseEntity;
 
 @NoArgsConstructor
 @AllArgsConstructor
